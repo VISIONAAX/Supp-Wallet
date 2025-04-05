@@ -36,6 +36,8 @@ Sup Wallet allows anyone to use WhatsApp as a wallet to send, receive, or swap a
 
 ## Architecture
 
+![18bd597f41fb7b549e804df4b83b997d](https://github.com/user-attachments/assets/245bb4e9-7389-4899-8414-a5666a9e7020)
+
 
 ## Testing Instructions - Configuration
 
